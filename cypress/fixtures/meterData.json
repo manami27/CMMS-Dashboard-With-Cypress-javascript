@@ -1,0 +1,7 @@
+{
+  "meterDescription": "New Meter Description",
+  "meterType": "Continuous{enter}",
+  "readingType": "ACTUAL{enter}",
+  "domain": "DMCOLLVALIDRESULT{enter}",
+  "unitOfMeasure": "B34{enter}"
+}
